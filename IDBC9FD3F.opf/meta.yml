@@ -1,0 +1,101 @@
+id: IDBC9FD3F
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-05T19:58:21.039275'
+last_modified: '2022-06-05T19:58:21.039280'
+parser: null
+source_metadata:
+  title: Shechen Gyaltsab Gyurme Pema Namgyal
+  language: zh
+  description: 'Texts by and about Shechen Gyatsab Gyurme Pema Namgyal (zhe chen rgyal
+    tshab ''gyur med padma rnam rgyal, 1871–1926):'
+  volume:
+    f0200:
+      title: Advice for Gelong Jampa Dargye
+      base_file: f0200.txt
+      order: 1
+      parent: Advice
+    fA374:
+      title: A Prayer of Aspiration
+      base_file: fA374.txt
+      order: 2
+      parent: Aspiration Prayers
+    fE0D4:
+      title: Lamp Aspiration Prayer
+      base_file: fE0D4.txt
+      order: 3
+      parent: Aspiration Prayers
+    fDDDE:
+      title: Biography of Shechen Gyaltsab Gyurme Pema Namgyal
+      base_file: fDDDE.txt
+      order: 4
+      parent: Biography
+    f5E46:
+      title: Brief Offering Prayer to Gesar
+      base_file: f5E46.txt
+      order: 5
+      parent: Dharma Protectors
+    fD249:
+      title: 'Pacifying the Turmoil of the Mamos: A Concise Liturgy'
+      base_file: fD249.txt
+      order: 6
+      parent: Dharma Protectors
+    fD85C:
+      title: Guru Yoga of the Great Omniscient One, Longchenpa
+      base_file: fD85C.txt
+      order: 7
+      parent: Guru Yoga
+    f1489:
+      title: 'Swift Infusion of Blessings: A Guru Yoga based on Jamgön Mipham Gyatso'
+      base_file: f1489.txt
+      order: 8
+      parent: Guru Yoga
+    fEDE5:
+      title: A Clear, Concise and Simple Explanation of the Generation and Completion
+        Stages for the Benefit of Beginners
+      base_file: fEDE5.txt
+      order: 9
+      parent: Kyerim
+    f5BA2:
+      title: Prayer for the Long Life of Jamyang Khyentse Chökyi Lodrö
+      base_file: f5BA2.txt
+      order: 10
+      parent: Long Life Prayers
+    fF9A3:
+      title: Prayer for the Long Life of Shechen Rabjam Rinpoche
+      base_file: fF9A3.txt
+      order: 11
+      parent: Long Life Prayers
+    f82C8:
+      title: A Prayer To Padmasambhava
+      base_file: f82C8.txt
+      order: 12
+      parent: Prayers
+    f5433:
+      title: A Prayer to Amitāyus
+      base_file: f5433.txt
+      order: 13
+      parent: Prayers
+    f5208:
+      title: A Prayer to Mañjughoṣa
+      base_file: f5208.txt
+      order: 14
+      parent: Prayers
+    f16BE:
+      title: A Prayer to the Vajradhara of Oḍḍiyāna
+      base_file: f16BE.txt
+      order: 15
+      parent: Prayers
+    fD708:
+      title: A Concise Feast Prayer
+      base_file: fD708.txt
+      order: 16
+      parent: Tsok
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
